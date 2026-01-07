@@ -7,6 +7,14 @@
 #include <algorithm>
 #include <climits>
 using namespace std;
+
+/*
+Problem:
+Approach:
+Key Idea:
+Time Complexity:
+Space Complexity:
+*/
 struct TreeNode {
     int val;
     TreeNode* left;
@@ -18,15 +26,14 @@ struct TreeNode {
     }
 };
 
-int height(TreeNode* root) {
-    if (!root) return 0;
-    return 1 + min(height(root->left), height(root->right));
-}
+ 
+
 
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(NULL);
 
-///height functio
+    
+
     return 0;
 }

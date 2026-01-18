@@ -7,7 +7,7 @@
 //
 // Goal:
 // Push element DOWN recursively until min-heap property is restored
-
+////****Used IN ADD ELEMENT***** *////
 void heapifyDown(vector<int>& heap, int i) {
 
     int n = heap.size();

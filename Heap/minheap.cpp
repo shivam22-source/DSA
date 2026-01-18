@@ -16,6 +16,9 @@ public:
     // ----------------------
     // Used after insertion
     // Fixes heap property from index i to root
+
+
+    ////****Used IN DEL/REPLACE ELEMENT***** *////
     void heapifyUp(int i) {
 
         // Base case: reached root
@@ -35,6 +38,10 @@ public:
     // ------------------------
     // Used after deletion or replacement
     // Fixes heap property from index i downward
+
+
+    ////****Used IN ADD ELEMENT***** *////
+    
     void heapifyDown(int i) {
 
         int n = heap.size();

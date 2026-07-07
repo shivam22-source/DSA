@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [1251-average-selling-price](https://github.com/shivam22-source/DSA/tree/master/1251-average-selling-price) |
 | [1661-average-time-of-process-per-machine](https://github.com/shivam22-source/DSA/tree/master/1661-average-time-of-process-per-machine) |
 | [1757-recyclable-and-low-fat-products](https://github.com/shivam22-source/DSA/tree/master/1757-recyclable-and-low-fat-products) |
 | [1934-confirmation-rate](https://github.com/shivam22-source/DSA/tree/master/1934-confirmation-rate) |

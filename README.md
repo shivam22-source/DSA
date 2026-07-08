@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivam22-source/DSA/tree/master/0130-surrounded-regions) |
+| [0198-house-robber](https://github.com/shivam22-source/DSA/tree/master/0198-house-robber) |
 | [0778-swim-in-rising-water](https://github.com/shivam22-source/DSA/tree/master/0778-swim-in-rising-water) |
 | [1631-path-with-minimum-effort](https://github.com/shivam22-source/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivam22-source/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/shivam22-source/DSA/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/shivam22-source/DSA/tree/master/0509-fibonacci-number) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam22-source/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path

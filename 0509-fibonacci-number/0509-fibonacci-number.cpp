@@ -1,15 +1,16 @@
 class Solution {
 public:
-unordered_map<int,int>dp;
     int fib(int n) {
-        if(n==0)return 0;
+        //tabulation with litttle optimisation with space
         if(n==1)return 1;
-        if(dp.find(n)!=dp.end()){
-            return dp[n];
-        }   ///dp-way
-        int ans1=fib(n-1);
-        int ans2=fib(n-2);
-        dp[n]=ans1+ans2;
-        return ans1+ans2;
+        if(n==0)return 0;
+      int prev=1,prev_prev=0;
+      int curr=0;
+        for(int i=2;i<=n;i++){
+           curr=prev+prev_prev;
+            prev_prev=prev;
+            prev=curr;
+        }
+        return curr;
     }
 };

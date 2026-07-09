@@ -2,12 +2,14 @@ class Solution {
 public:
 //tabulation
     int climbStairs(int n) {
-        vector<int>dp(n+2);
-        dp[n]=1;
-        dp[n+1]=0;
+        int last=0;
+        int last_s=1;
+        int ans=0;
         for(int i=n-1;i>=0;i--){
-            dp[i]=dp[i+1]+dp[i+2];
+             ans=last+last_s;
+            last=last_s;
+            last_s=ans;
         }
-return dp[0];
+return ans;
     }
 };

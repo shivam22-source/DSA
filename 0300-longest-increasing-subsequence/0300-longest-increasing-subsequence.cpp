@@ -1,23 +1,21 @@
 class Solution {
-public://dp memosiation
-int fun(vector<int>& nums, int i, int n, int prev,vector<vector<int>>&dp){
-    if(i==n)return 0;
-    if(dp[i][prev+1]!=-1)return dp[i][prev+1];
-    if(prev==-1 || nums[prev]<nums[i]){
-        int c1=1+fun(nums,i+1,n,i,dp);
-        int c2=fun(nums,i+1,n,prev,dp);
-
-        return dp[i][prev+1]= max(c1,c2);
-    }
-    else {
-        return dp[i][prev+1]=fun(nums,i+1,n,prev,dp);
-    }
-
-}
+public:
     int lengthOfLIS(vector<int>& nums) {
+        //tabulation
         int n=nums.size();
-        vector<vector<int>>dp(n+1,vector<int>(n+1,-1));
-        dp[n][n]=0;
-        return fun(nums,0,n,-1,dp);
+        vector<int>res(n);
+        for(int i=0;i<n;i++){
+            res[i]=1;
+            for(int j=0;j<i;j++){
+                if(nums[j]<nums[i]){
+                    res[i]=max(res[i],res[j]+1);
+                }
+            }
+        }
+        int m=INT_MIN;
+        for(int i=0;i<n;i++){
+            m=max(m,res[i]);
+        }
+        return m;
     }
 };

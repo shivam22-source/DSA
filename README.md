@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/shivam22-source/DSA/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/shivam22-source/DSA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/shivam22-source/DSA/tree/master/0135-candy) |
+| [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivam22-source/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/shivam22-source/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivam22-source/DSA/tree/master/0213-house-robber-ii) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam22-source/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam22-source/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivam22-source/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivam22-source/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/shivam22-source/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivam22-source/DSA/tree/master/0213-house-robber-ii) |
@@ -137,12 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivam22-source/DSA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
 | [0509-fibonacci-number](https://github.com/shivam22-source/DSA/tree/master/0509-fibonacci-number) |
 ## String
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shivam22-source/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/shivam22-source/DSA/tree/master/0072-edit-distance) |
+| [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
 | [1143-longest-common-subsequence](https://github.com/shivam22-source/DSA/tree/master/1143-longest-common-subsequence) |
 ## Combinatorics
 |  |
@@ -164,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shivam22-source/DSA/tree/master/0049-group-anagrams) |
+| [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
 ## Linked List
 |  |
@@ -177,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->

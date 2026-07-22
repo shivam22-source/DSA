@@ -162,4 +162,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shivam22-source/DSA/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->

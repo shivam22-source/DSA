@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/shivam22-source/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivam22-source/DSA/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/shivam22-source/DSA/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam22-source/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam22-source/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivam22-source/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/shivam22-source/DSA/tree/master/0049-group-anagrams) |
+| [0072-edit-distance](https://github.com/shivam22-source/DSA/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/shivam22-source/DSA/tree/master/1143-longest-common-subsequence) |
 ## Combinatorics
 |  |

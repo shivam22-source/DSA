@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivam22-source/DSA/tree/master/0130-surrounded-regions) |
+| [0279-perfect-squares](https://github.com/shivam22-source/DSA/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/shivam22-source/DSA/tree/master/0322-coin-change) |
 | [0778-swim-in-rising-water](https://github.com/shivam22-source/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/shivam22-source/DSA/tree/master/0785-is-graph-bipartite) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/shivam22-source/DSA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/shivam22-source/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/shivam22-source/DSA/tree/master/0213-house-robber-ii) |
+| [0279-perfect-squares](https://github.com/shivam22-source/DSA/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/shivam22-source/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivam22-source/DSA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/shivam22-source/DSA/tree/master/0322-coin-change) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/shivam22-source/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/shivam22-source/DSA/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/shivam22-source/DSA/tree/master/0279-perfect-squares) |
 | [0509-fibonacci-number](https://github.com/shivam22-source/DSA/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |

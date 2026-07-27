@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/shivam22-source/DSA/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/shivam22-source/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivam22-source/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam22-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam22-source/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/shivam22-source/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Matrix
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/shivam22-source/DSA/tree/master/0778-swim-in-rising-water) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam22-source/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam22-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/shivam22-source/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shivam22-source/DSA/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam22-source/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam22-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam22-source/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam22-source/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table

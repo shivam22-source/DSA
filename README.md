@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/shivam22-source/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0300-longest-increasing-subsequence](https://github.com/shivam22-source/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0778-swim-in-rising-water](https://github.com/shivam22-source/DSA/tree/master/0778-swim-in-rising-water) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/shivam22-source/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1631-path-with-minimum-effort](https://github.com/shivam22-source/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/shivam22-source/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## Binary Tree
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam22-source/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0778-swim-in-rising-water](https://github.com/shivam22-source/DSA/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/shivam22-source/DSA/tree/master/0931-minimum-falling-path-sum) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/shivam22-source/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivam22-source/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam22-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam22-source/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam22-source/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0931-minimum-falling-path-sum](https://github.com/shivam22-source/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1143-longest-common-subsequence](https://github.com/shivam22-source/DSA/tree/master/1143-longest-common-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/shivam22-source/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivam22-source/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam22-source/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 ## Shortest Path
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shivam22-source/DSA/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam22-source/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/shivam22-source/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam22-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam22-source/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/shivam22-source/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |

@@ -177,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam22-source/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shivam22-source/DSA/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/shivam22-source/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shivam22-source/DSA/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
 | [0763-partition-labels](https://github.com/shivam22-source/DSA/tree/master/0763-partition-labels) |
@@ -269,4 +270,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shivam22-source/DSA/tree/master/1929-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/shivam22-source/DSA/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->

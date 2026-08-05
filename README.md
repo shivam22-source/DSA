@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/shivam22-source/DSA/tree/master/0994-rotting-oranges) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shivam22-source/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivam22-source/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam22-source/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam22-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam22-source/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/shivam22-source/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivam22-source/DSA/tree/master/0049-group-anagrams) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam22-source/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shivam22-source/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam22-source/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam22-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam22-source/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/shivam22-source/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivam22-source/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0763-partition-labels](https://github.com/shivam22-source/DSA/tree/master/0763-partition-labels) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam22-source/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1912-design-movie-rental-system](https://github.com/shivam22-source/DSA/tree/master/1912-design-movie-rental-system) |
 ## Linked List
 |  |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam22-source/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam22-source/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Game Theory
 |  |

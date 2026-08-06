@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shivam22-source/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivam22-source/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam22-source/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/shivam22-source/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam22-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam22-source/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/shivam22-source/DSA/tree/master/1631-path-with-minimum-effort) |
@@ -278,9 +279,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/shivam22-source/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/shivam22-source/DSA/tree/master/1929-concatenation-of-array) |
 ## Stack
 |  |
 | ------- |
 | [0071-simplify-path](https://github.com/shivam22-source/DSA/tree/master/0071-simplify-path) |
+| [1441-build-an-array-with-stack-operations](https://github.com/shivam22-source/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->

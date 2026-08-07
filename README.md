@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/shivam22-source/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shivam22-source/DSA/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/shivam22-source/DSA/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/shivam22-source/DSA/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam22-source/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivam22-source/DSA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivam22-source/DSA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/shivam22-source/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shivam22-source/DSA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/shivam22-source/DSA/tree/master/0076-minimum-window-substring) |
+| [0091-decode-ways](https://github.com/shivam22-source/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
 | [0763-partition-labels](https://github.com/shivam22-source/DSA/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/shivam22-source/DSA/tree/master/1143-longest-common-subsequence) |

@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/shivam22-source/DSA/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/shivam22-source/DSA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/shivam22-source/DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/shivam22-source/DSA/tree/master/0076-minimum-window-substring) |
 | [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
 | [0763-partition-labels](https://github.com/shivam22-source/DSA/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/shivam22-source/DSA/tree/master/1143-longest-common-subsequence) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam22-source/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/shivam22-source/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/shivam22-source/DSA/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivam22-source/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam22-source/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/shivam22-source/DSA/tree/master/0076-minimum-window-substring) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/shivam22-source/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 ## Prefix Sum
 |  |

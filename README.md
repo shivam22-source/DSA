@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/shivam22-source/DSA/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/shivam22-source/DSA/tree/master/0091-decode-ways) |
 | [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/shivam22-source/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0763-partition-labels](https://github.com/shivam22-source/DSA/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/shivam22-source/DSA/tree/master/1143-longest-common-subsequence) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam22-source/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shivam22-source/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/shivam22-source/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivam22-source/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivam22-source/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0763-partition-labels](https://github.com/shivam22-source/DSA/tree/master/0763-partition-labels) |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
+| [0208-implement-trie-prefix-tree](https://github.com/shivam22-source/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivam22-source/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [1912-design-movie-rental-system](https://github.com/shivam22-source/DSA/tree/master/1912-design-movie-rental-system) |
 ## Doubly-Linked List
@@ -250,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
+| [0208-implement-trie-prefix-tree](https://github.com/shivam22-source/DSA/tree/master/0208-implement-trie-prefix-tree) |
 ## Randomized
 |  |
 | ------- |

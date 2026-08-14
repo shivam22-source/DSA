@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivam22-source/DSA/tree/master/0098-validate-binary-search-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/shivam22-source/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/shivam22-source/DSA/tree/master/0778-swim-in-rising-water) |
 | [0785-is-graph-bipartite](https://github.com/shivam22-source/DSA/tree/master/0785-is-graph-bipartite) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/shivam22-source/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1110-delete-nodes-and-return-forest](https://github.com/shivam22-source/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1631-path-with-minimum-effort](https://github.com/shivam22-source/DSA/tree/master/1631-path-with-minimum-effort) |
 ## Binary Search Tree
 |  |
@@ -28,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/shivam22-source/DSA/tree/master/0098-validate-binary-search-tree) |
+| [1110-delete-nodes-and-return-forest](https://github.com/shivam22-source/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -79,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-swim-in-rising-water](https://github.com/shivam22-source/DSA/tree/master/0778-swim-in-rising-water) |
 | [0931-minimum-falling-path-sum](https://github.com/shivam22-source/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/shivam22-source/DSA/tree/master/0994-rotting-oranges) |
+| [1110-delete-nodes-and-return-forest](https://github.com/shivam22-source/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/shivam22-source/DSA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1289-minimum-falling-path-sum-ii](https://github.com/shivam22-source/DSA/tree/master/1289-minimum-falling-path-sum-ii) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam22-source/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -234,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivam22-source/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/shivam22-source/DSA/tree/master/0460-lfu-cache) |
 | [0763-partition-labels](https://github.com/shivam22-source/DSA/tree/master/0763-partition-labels) |
+| [1110-delete-nodes-and-return-forest](https://github.com/shivam22-source/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam22-source/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1912-design-movie-rental-system](https://github.com/shivam22-source/DSA/tree/master/1912-design-movie-rental-system) |
 ## Linked List

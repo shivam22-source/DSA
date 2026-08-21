@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-design-movie-rental-system](https://github.com/shivam22-source/DSA/tree/master/1912-design-movie-rental-system) |
 | [1929-concatenation-of-array](https://github.com/shivam22-source/DSA/tree/master/1929-concatenation-of-array) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/shivam22-source/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam22-source/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
 | ------- |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivam22-source/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/shivam22-source/DSA/tree/master/1929-concatenation-of-array) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam22-source/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |
 | ------- |

@@ -183,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shivam22-source/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/shivam22-source/DSA/tree/master/0050-powx-n) |
 | [0486-predict-the-winner](https://github.com/shivam22-source/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam22-source/DSA/tree/master/0509-fibonacci-number) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/shivam22-source/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivam22-source/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/shivam22-source/DSA/tree/master/0460-lfu-cache) |

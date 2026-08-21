@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shivam22-source/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivam22-source/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
+| [0237-delete-node-in-a-linked-list](https://github.com/shivam22-source/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/shivam22-source/DSA/tree/master/0460-lfu-cache) |
 ## Design
 |  |

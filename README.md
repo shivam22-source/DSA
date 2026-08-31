@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/shivam22-source/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/shivam22-source/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shivam22-source/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/shivam22-source/DSA/tree/master/0208-implement-trie-prefix-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/shivam22-source/DSA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivam22-source/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/shivam22-source/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0138-copy-list-with-random-pointer](https://github.com/shivam22-source/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/shivam22-source/DSA/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shivam22-source/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivam22-source/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0460-lfu-cache](https://github.com/shivam22-source/DSA/tree/master/0460-lfu-cache) |
 ## Design
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivam22-source/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/shivam22-source/DSA/tree/master/0031-next-permutation) |
+| [0160-intersection-of-two-linked-lists](https://github.com/shivam22-source/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0763-partition-labels](https://github.com/shivam22-source/DSA/tree/master/0763-partition-labels) |
 ## Sliding Window
 |  |

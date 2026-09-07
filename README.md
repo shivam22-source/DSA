@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/shivam22-source/DSA/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/shivam22-source/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/shivam22-source/DSA/tree/master/0063-unique-paths-ii) |
+| [0090-subsets-ii](https://github.com/shivam22-source/DSA/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/shivam22-source/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shivam22-source/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shivam22-source/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -332,4 +333,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/shivam22-source/DSA/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/shivam22-source/DSA/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivam22-source/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+## Backtracking
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/shivam22-source/DSA/tree/master/0090-subsets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0090-subsets-ii](https://github.com/shivam22-source/DSA/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->

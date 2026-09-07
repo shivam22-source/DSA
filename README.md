@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/shivam22-source/DSA/tree/master/0031-next-permutation) |
+| [0039-combination-sum](https://github.com/shivam22-source/DSA/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/shivam22-source/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/shivam22-source/DSA/tree/master/0063-unique-paths-ii) |
 | [0090-subsets-ii](https://github.com/shivam22-source/DSA/tree/master/0090-subsets-ii) |
@@ -336,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/shivam22-source/DSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/shivam22-source/DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |

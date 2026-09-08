@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivam22-source/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0763-partition-labels](https://github.com/shivam22-source/DSA/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/shivam22-source/DSA/tree/master/1143-longest-common-subsequence) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/shivam22-source/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam22-source/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
 |  |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1110-delete-nodes-and-return-forest](https://github.com/shivam22-source/DSA/tree/master/1110-delete-nodes-and-return-forest) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam22-source/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1912-design-movie-rental-system](https://github.com/shivam22-source/DSA/tree/master/1912-design-movie-rental-system) |
+| [2062-count-vowel-substrings-of-a-string](https://github.com/shivam22-source/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 ## Linked List
 |  |
 | ------- |

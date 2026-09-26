@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/shivam22-source/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shivam22-source/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam22-source/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/shivam22-source/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
 ## Matrix
 |  |
 | ------- |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam22-source/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0763-partition-labels](https://github.com/shivam22-source/DSA/tree/master/0763-partition-labels) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/shivam22-source/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/shivam22-source/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
 ## Sorting
 |  |
 | ------- |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam22-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/shivam22-source/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/shivam22-source/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [3111-minimum-rectangles-to-cover-points](https://github.com/shivam22-source/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam22-source/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam22-source/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Hash Table

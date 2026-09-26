@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-design-movie-rental-system](https://github.com/shivam22-source/DSA/tree/master/1912-design-movie-rental-system) |
 | [1929-concatenation-of-array](https://github.com/shivam22-source/DSA/tree/master/1929-concatenation-of-array) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/shivam22-source/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shivam22-source/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam22-source/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Matrix
 |  |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shivam22-source/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1631-path-with-minimum-effort](https://github.com/shivam22-source/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1912-design-movie-rental-system](https://github.com/shivam22-source/DSA/tree/master/1912-design-movie-rental-system) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shivam22-source/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivam22-source/DSA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/shivam22-source/DSA/tree/master/1929-concatenation-of-array) |
+| [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shivam22-source/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam22-source/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Stack
 |  |

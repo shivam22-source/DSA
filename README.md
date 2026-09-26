@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/shivam22-source/DSA/tree/master/0486-predict-the-winner) |
 | [0509-fibonacci-number](https://github.com/shivam22-source/DSA/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam22-source/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/shivam22-source/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 | [3536-maximum-product-of-two-digits](https://github.com/shivam22-source/DSA/tree/master/3536-maximum-product-of-two-digits) |
 ## Recursion
 |  |
@@ -358,4 +359,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/shivam22-source/DSA/tree/master/0278-first-bad-version) |
+## Enumeration
+|  |
+| ------- |
+| [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/shivam22-source/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
 <!---LeetCode Topics End-->

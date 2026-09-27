@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shivam22-source/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam22-source/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/shivam22-source/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
+| [3964-minimum-lights-to-illuminate-a-road](https://github.com/shivam22-source/DSA/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Matrix
 |  |
 | ------- |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/shivam22-source/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [3964-minimum-lights-to-illuminate-a-road](https://github.com/shivam22-source/DSA/tree/master/3964-minimum-lights-to-illuminate-a-road) |
 ## Ordered Set
 |  |
 | ------- |

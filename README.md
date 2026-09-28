@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/shivam22-source/DSA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0763-partition-labels](https://github.com/shivam22-source/DSA/tree/master/0763-partition-labels) |
 | [1143-longest-common-subsequence](https://github.com/shivam22-source/DSA/tree/master/1143-longest-common-subsequence) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam22-source/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/shivam22-source/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/shivam22-source/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Combinatorics
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/shivam22-source/DSA/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/shivam22-source/DSA/tree/master/0234-palindrome-linked-list) |
 | [1441-build-an-array-with-stack-operations](https://github.com/shivam22-source/DSA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam22-source/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Backtracking
 |  |
 | ------- |
@@ -371,4 +373,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2240-number-of-ways-to-buy-pens-and-pencils](https://github.com/shivam22-source/DSA/tree/master/2240-number-of-ways-to-buy-pens-and-pencils) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam22-source/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/shivam22-source/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/shivam22-source/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/shivam22-source/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/shivam22-source/DSA/tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivam22-source/DSA/tree/master/0518-coin-change-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/shivam22-source/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/shivam22-source/DSA/tree/master/0695-max-area-of-island) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/shivam22-source/DSA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/shivam22-source/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/shivam22-source/DSA/tree/master/0486-predict-the-winner) |
+| [0494-target-sum](https://github.com/shivam22-source/DSA/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/shivam22-source/DSA/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/shivam22-source/DSA/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivam22-source/DSA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
@@ -368,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/shivam22-source/DSA/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/shivam22-source/DSA/tree/master/0039-combination-sum) |
 | [0090-subsets-ii](https://github.com/shivam22-source/DSA/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/shivam22-source/DSA/tree/master/0494-target-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -386,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shivam22-source/DSA/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/shivam22-source/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivam22-source/DSA/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/shivam22-source/DSA/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

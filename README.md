@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1912-design-movie-rental-system](https://github.com/shivam22-source/DSA/tree/master/1912-design-movie-rental-system) |
 | [1929-concatenation-of-array](https://github.com/shivam22-source/DSA/tree/master/1929-concatenation-of-array) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/shivam22-source/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam22-source/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3066-minimum-operations-to-exceed-threshold-value-ii](https://github.com/shivam22-source/DSA/tree/master/3066-minimum-operations-to-exceed-threshold-value-ii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/shivam22-source/DSA/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3111-minimum-rectangles-to-cover-points](https://github.com/shivam22-source/DSA/tree/master/3111-minimum-rectangles-to-cover-points) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/shivam22-source/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1912-design-movie-rental-system](https://github.com/shivam22-source/DSA/tree/master/1912-design-movie-rental-system) |
 | [2062-count-vowel-substrings-of-a-string](https://github.com/shivam22-source/DSA/tree/master/2062-count-vowel-substrings-of-a-string) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam22-source/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Linked List
 |  |
 | ------- |
@@ -332,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shivam22-source/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/shivam22-source/DSA/tree/master/0076-minimum-window-substring) |
 | [2271-maximum-white-tiles-covered-by-a-carpet](https://github.com/shivam22-source/DSA/tree/master/2271-maximum-white-tiles-covered-by-a-carpet) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/shivam22-source/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Prefix Sum
 |  |
 | ------- |
